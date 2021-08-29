@@ -1,0 +1,9 @@
+Nomor 2
+1. Angka1 & Angka2 dikosongkan: "the app has stopped"
+	- empty String
+	- Angka1 & Angka2 harus di input angka (tidak boleh kosong)
+2. Angka2 dikosongkan: "the app has stopped"
+	- empty String
+	- Angka2 harus di input angka (tidak boleh kosong)
+3. 0 pada angka2: 
+	- Hasil: infinity
