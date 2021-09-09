@@ -1,0 +1,7 @@
+Hillary Dorothea Kristianto - 37192
+
+1. Intent - Ada 2: implisit dan explisit
+- Intent Implisit: pindah dari satu activity ke activity lain. Contohnya seperti dari halaman home ke halaman login.
+- Intent Explisit: pindah app. contohnya seperti membuka link dari sebuah app yang akan diarahkan ke browser yang terdapat dalam device untuk membuka link tersebut.
+
+2. Fragment - Bisa dilakukan dengan dua cara: menggunakan layout & programmatic. Hasilnya sama, yang beda adalah caranya.
