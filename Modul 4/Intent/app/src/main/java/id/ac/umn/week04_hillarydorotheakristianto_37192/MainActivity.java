@@ -57,9 +57,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        /*Intent mainIntent = getIntent();
+        Intent mainIntent = getIntent();
         String jawaban = mainIntent.getStringExtra("Jawaban");
-        tvJawaban.setText(jawaban);*/
+        tvJawaban.setText(jawaban);
     }
 
     @Override

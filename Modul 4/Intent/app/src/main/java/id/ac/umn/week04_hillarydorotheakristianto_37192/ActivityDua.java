@@ -28,7 +28,7 @@ public class ActivityDua extends AppCompatActivity {
         String pesanDiterima = mainIntent.getStringExtra("PesanDariMain");
         tvPesanDiterima.setText(pesanDiterima);
 
-        /*btnBalasKirim.setOnClickListener(new View.OnClickListener() {
+        btnBalasKirim.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 String jawaban = etJawaban.getText().toString();
@@ -36,7 +36,7 @@ public class ActivityDua extends AppCompatActivity {
                 balasIntent.putExtra("Jawaban", jawaban);
                 startActivity(balasIntent);
             }
-        });*/
+        });
     }
 
     public void kirimBalik(View v){
