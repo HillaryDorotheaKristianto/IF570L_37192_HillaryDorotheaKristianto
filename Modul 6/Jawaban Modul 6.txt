@@ -1,0 +1,9 @@
+Hillary Dorothea Kristianto - 37192
+
+Animasi Property - Ketika layar app diklik, akan muncul animasi lingkaran membesar lalu mengecil yang kemudian diulang sekali lagi.
+
+Animasi Drawable - Ketika app dijalankan akan tampil gambar kuda01. Ketika layar app diklik, gambar tersebut akan berganti dari kuda01 sampai kuda11 sehingga terlihat seperti gambar tersebut bergerak.
+
+Animasi Berbasis Ilmu Fisika
+1. Ketika tombol "Halo Spring" diklik, tombol tersebut akan bergerak ke bawah dan kembali ke posisi awal.
+2. Ketika tombol "Halo Fling" diklik, tombol tersebut akan berputar secara vertikal.
