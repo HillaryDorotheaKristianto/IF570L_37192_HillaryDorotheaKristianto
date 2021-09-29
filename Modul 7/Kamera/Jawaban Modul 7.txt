@@ -1,0 +1,3 @@
+Hillary Dorothea Kristianto - 37192
+
+Ketika tombol "Ambil Foto" diklik, aplikasi akan membuka kamera pada device (memerlukan permission terlebih dahulu). Setelah mengambil foto, foto dapat dilihat. Begitu pula ketika mengklik tombol "Ambil Video".
