@@ -1,0 +1,13 @@
+Hillary Dorothea Kristianto - 37192
+
+TextEditor & Storage
+1. Save - Aplikasi akan menyimpan sebuah file dengan nama yang diketik. File tersebut akan disimpan sesuai dengan storage yang dipilih (Temporary/Internal/External). Isi dari file tersebut ada kata yang diketik (EditText yang bawah).
+2. Delete - Aplikasi akan menghapus file yang dipilih.
+3. Open - Akan menampilkan list file yang ada. Ketika file dipilih, file tersebut akan dibuka (beserta dengan isinya).
+4. Clear - Menghapus text (nama file & isi file).
+5. Exit - Aplikasi akan ditutup.
+
+Saved Instance & Shared Preference
+1. Ketika button warna (hitam, biru, merah, hijau) diklik, warna background akan berubah sesuai dengan warna yang dipilih.
+2. Ketika button "tambah" diklik, angka pada aplikasi akan bertambah.
+3. Ketika button "reset" diklik, angka pada aplikasi akan kembali ke 0 dan warna background akan kembali ke warna awal.
