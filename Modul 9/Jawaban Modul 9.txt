@@ -1,0 +1,6 @@
+Hillary Dorothea Kristianto - 37192
+
+1. Data mahasiswa akan ditambahkan ke list ketika button "simpan" diklik.
+2. Ketika data mahasiswa di-swipe ke kiri, maka data mahasiswa tersebut akan terhapus.
+3. Ketika data mahasiswa di-swipe ke kanan, maka akan diarahkan ke activity baru untuk mengedit data mahasiswa tersebut (kecuali NIM).
+4. Ketika "Hapus Semua" diklik (di action bar), maka semua data mahasiswa yang ada akan terhapus.
